@@ -11,15 +11,15 @@
 <br>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/Sherlykutty/Beast-X)
-[![AGPLv3 license](https://img.shields.io/badge/License-AGPL%20v3-green.svg)]( https://github.com/msy1717/Beast-X#copyright--license)
-[![Stars](https://img.shields.io/github/stars/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/stargazers)
+[![AGPLv3 license](https://img.shields.io/badge/License-AGPL%20v3-green.svg)]( https://github.com/Sherlykutty/Beast-X#copyright--license)
+[![Stars](https://img.shields.io/github/stars/msy1717/Beast-X?&style=flat-square)]( https://github.com/Sherlykutty/Beast-X/stargazers)
 [![Forks](https://img.shields.io/github/forks/msy1717/Beast-X?&style=flat-square)]( https://github.com/Sherlykutty/Beast-X/network/members)
-[![Issues Open](https://img.shields.io/github/issues/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/issues)
-[![Issues Closed](https://img.shields.io/github/issues-closed/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/issues?q=is:closed)
-[![PR Open](https://img.shields.io/github/issues-pr/msy177/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Beast-X/pulls?q=is:closed)
-![Repo Size](https://img.shields.io/github/repo-size/msy1717/Beast-X?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/msy1717/Beast-X?color=brown&logo=github&logoColor=green&style=for-the-badge)
+[![Issues Open](https://img.shields.io/github/issues/msy1717/Beast-X?&style=flat-square)]( https://github.com/Sherlykutty/Beast-X/issues)
+[![Issues Closed](https://img.shields.io/github/issues-closed/msy1717/Beast-X?&style=flat-square)]( https://github.com/msy1717/Sherlykutty/issues?q=is:closed)
+[![PR Open](https://img.shields.io/github/issues-pr/msy177/Beast-X?&style=flat-square)]( https://github.com/Sherlykutty/Beast-X/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/msy1717/Beast-X?&style=flat-square)]( https://github.com/Sherlykutty/Beast-X/pulls?q=is:closed)
+![Repo Size](https://img.shields.io/github/repo-size/Sherlykutty/Beast-X?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Sherlykutty/Beast-X?color=brown&logo=github&logoColor=green&style=for-the-badge)
 
 
 <br>
